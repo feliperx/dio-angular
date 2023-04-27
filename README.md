@@ -1,1 +1,1 @@
-### :fire: Primeiro desafio do curso de Angular da dio.
+## Curso de Angular da dio - Primeiro desafio :trophy:
